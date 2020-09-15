@@ -2,6 +2,10 @@ dragonpilot 0.7.8.1
 ========================
 * 加入 ko-KR 翻譯。
 * Added ko-KR translation.
+* 加入 Honda Jade 支援。(感謝 @李俊灝)
+* Added Honda Jade support. (Thanks to @lijunhao731)
+* 修正 ui.cc 內存越界的問題。(感謝 @piggy 提供)
+* Fixed ui.cc memory out of bound issue. (Thanks to @piggy)
 
 dragonpilot 0.7.8.0
 ========================
